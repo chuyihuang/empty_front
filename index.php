@@ -12,6 +12,7 @@
 </head>
 <body id="home">
   <?php include './partials/header.php'; ?>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
   <script src="/assets/javascripts/bootstrap.js" type="text/javascript"></script>
 </body>
 </html>
