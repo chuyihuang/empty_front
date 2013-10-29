@@ -11,7 +11,7 @@
   <script src="/assets/javascripts/respond.min.js" type="text/javascript"></script>
 </head>
 <body id="home">
-  <?php include './partials/xxx.php'; ?>
+  <?php include './partials/header.php'; ?>
   <script src="/assets/javascripts/bootstrap.js" type="text/javascript"></script>
 </body>
 </html>
